@@ -22,4 +22,4 @@ USB-connection is done by an Mini-USB connector
 
 Build summary:
 The StoneMouse pcb was etched with natriumpersulfate and the components were soldered. The controller was flashed before it was soldered on the pcb.
-For the Joystick, there was a prototyping pcb soldered 90° to the top of the base pcb to hold the components. Several buttons were soldered onto a prototyping pcb which was soldered to the base pcb and the joystick pcb. The mechanical structure was strengthened by pieces of raw pcb soldered to the other pcbs, forming a housing for the electronics. 
+For the Joystick, there was a prototyping pcb soldered 90° to the top of the base pcb to hold the components. Several buttons were soldered onto a prototyping pcb which was soldered to the base pcb and the joystick pcb. All buttons are debumped by an 100nF smd capacitor. The mechanical structure was strengthened by pieces of raw pcb soldered to the other pcbs, forming a housing for the electronics. 
